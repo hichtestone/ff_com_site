@@ -1,0 +1,10 @@
+ckfinder:
+    connector:
+        authenticationClass: App\CustomCKFinderAuth\CustomCKFinderAuth
+        resourceTypes:
+            MyResource:
+                name: MyResource
+                backend: default
+                directory: myResource
+#imports:
+#    - { resource: ckfinder_config.php }

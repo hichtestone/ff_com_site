@@ -1,0 +1,6 @@
+easy_admin:
+    design:
+        assets:
+            js:
+                - '/bundles/cksourceckfinder/ckfinder/ckfinder.js'
+                - '/js/setup-ckfinder.js'
